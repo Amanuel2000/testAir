@@ -173,6 +173,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Amanuel Fenta | Email: [ehoneahobed](mailto:ehoneahobed@hotmail.com)
+Amanuel Fenta | Email: [amanuel2000](mailto:amanuelf44@gmail.com)
 
-Elias Dewa | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
+Elias Dewa | Github: [Elias-Dewa](mailto:elias.dewa19@gmail.com)
